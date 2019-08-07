@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:joegatt.net,2005:/texts</id>
+  <link rel="alternate" type="text/html" href="http://joegatt.net"/>
+  <link rel="self" type="application/atom+xml" href="http://joegatt.net/texts.atom"/>
+  <title>Figaro::ENV</title>
+  <language>en</language>
+  <updated>2018-08-13T05:28:19Z</updated>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/129</id>
+    <published>2013-07-08T18:53:44Z</published>
+    <updated>2018-08-13T05:28:34Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/129"/>
+    <title>Pantography</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;Pantography&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-1"&gt;Pantography tweets a message every hour. Each one is consecutive: the first was ‘0’ and the last will consist of 140 zeds. Between these two extremes, every possible message will have been tweeted: a description of every feeling you’ve ever had, anything you’ve ever overheard or will overhear, any headline that has ever caught, or could ever catch, your eye, everything you—and everyone else—has ever thought, or could ever think. (As long as you, and everyone else, thinks in spurts of no more than 140 characters, consisting of 26 Roman letters, ten Arabic numerals and a handful of punctuation marks.)&lt;/p&gt;
+        &lt;p id="paragraph-2"&gt;That’s the good news. Come that final message heralding the sleep of tweeting, everything will have been said and we can get on with our lives; uncommentated, untagged, unlinked—a life lived with both hands.&lt;/p&gt;
+        &lt;p id="paragraph-3"&gt;The bad news is that it will take some time. 2.97
+          &lt;sup&gt;237&lt;/sup&gt; years.
+        &lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;The Universal Library&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-4"&gt;The idea of a Universal Library is best known from Jorge Luis Borges’ famous short story, The Library of Babel. Some years before writing this story, Borges had written an essay called The Total Library in which he traces the germ of the idea of a library that contains all possible texts as far back as the atomists Democritus and Leucippus, by way of Aristotle, and several  mediaeval writers. But it was in the early 20th Century, he says, that the idea was given full form, first by Gustav Theodor Fechner and later, in the form of a fictional dialogue between a “professor” and a magazine editor, by Kurd Laßwitz. Borges remarks that it is a wonder how long it took anyone to come up with the idea.&lt;/p&gt;
+        &lt;p id="paragraph-5"&gt;Outside Borges, Montaigne, in Of Vain Cunning Devices, mentions a reference of Plutarch’s to a calculation of the size of such a library and Tristram Shandy looks forward to the end of any more possible texts. Faced with the alphabet, and the daily drudge of blackening paper with its letters, few writers could have failed to notice that they were working with a finite resource, a fixed number of permutations of the same letters.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;A Piece of String&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-6"&gt;Although the alphabet itself consists of a pre-determined number of letters, the length of a text is as long as the proverbial piece of string. The idea of the Universal Library, of a finite number of permutations is thus open-ended. Each book in Borges’ library of Babel, we are told, “contains four hundred ten pages; each page, forty lines; each line, approximately eighty black letters.” That’s 1,280,000 characters in each book. Laßwitz is slightly more economical. “I should think  that one can exhaust a theme pretty well with five hundred book pages,” his editor says authoritatively. “Let’s say that there are forty lines per page and fifty characters per line, we’ll have forty times fifty times five hundred characters per volume.” The professor quickly does the math: one million characters.&lt;/p&gt;
+        &lt;p id="paragraph-7"&gt;Laßwitz’s world-weary editor may think that a theme should be pretty well exhausted in five hundred pages, and if not the theme, then perhaps the reader. But would he truncate Ulysses? (264,861 words.) Would he cut Burton’s Anatomy of Melancholy? Now, you may say that whatever is truncated from one volume will be found in another—but that fragment would be in a different context, and form a different book. More seriously, there are millions upon millions of shorter books that, in these libraries, would have no place since they would all be transformed by an unfamiliar coda in order to make up the required length.&lt;/p&gt;
+        &lt;p id="paragraph-8"&gt;Both Borges’ 1,280,000 and Laßwitz’s 1,000,000 characters are arbitrary lengths, just the number of letters that an “average”-sized book contains. Whatever we decide that size to be, we can always think of larger, and smaller volumes, briefer or more prolix in their contents.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;A Missive of Hope&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-9"&gt;A surprising new direction emerged around the turn of the 21st Century. We discovered that a theme can be exhausted pretty well in 140 characters. Romance flickered, revolutions erupted, lives were saved, riots organised, opinions shared, events documented, rendezvous planned, mothers reassured, voters coaxed, customers mollified—all in 140 characters or less. God knows what we used to say in the remaining 999,860. In 2010 alone, 6.1 trillion SMS messages and 25 billion tweets were sent.&lt;/p&gt;
+        &lt;p id="paragraph-10"&gt;The brevity enforced by these media gives the project of a Universal Library fixed parameters. The length of each text is no longer arbitrary. It is the length within which we know we can say everything we need to say.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;Arithmetic and Algorithm&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-11"&gt;The most famous image of an automatically-generated text is certainly that of Émile Borel’s Infinite Monkey Theorem, in which a monkey bashes randomly at a typewriter’s keys. Assuming that this monkey is left to do its work indefinitely, and that it does not develop human-like contrariness, it will eventually produce every possible book. &lt;/p&gt;
+        &lt;p id="paragraph-12"&gt;But this would be a very wasteful way of going about things. Not particularly because the monkey will produce reams of gibberish—but because it will almost certainly repeat itself many millions of times. What we need is a methodical, exhaustive, monkey: infinity, and randomness, is precisely what we are trying to avoid. Our aim is to reduce the production of all texts to a finite task, and there is one simple way to achieve this: by producing each text incrementally.&lt;/p&gt;
+        &lt;p id="paragraph-13"&gt;The algorithm used to generate each new pantograph is straightforward. We are treating the fifty-four letters of our alphabet (including alphabetic and numerical characters, punctuation marks and a space) as if they were numerals in a number system to base 54.&lt;/p&gt;
+        &lt;p id="paragraph-14"&gt;Our “alphabet” consists of:&lt;/p&gt;
+        &lt;blockquote&gt;
+          &lt;a href="tel:0123456789"&gt;0123456789&lt;/a&gt;.,;:_@!?/#()%'-+= abcdefghijklmnopqrstuvwxyz
+        &lt;/blockquote&gt;
+        &lt;p id="paragraph-15"&gt;So our first message is “0”, the next one is “1”, and so on. Our fifty-fourth message is “z”. Now, our fifty-fifth message is “00”, our fifty-sixth “01” and so on until “0z”. The next one is “10”. By these increments, we will produce 54
+          &lt;sup&gt;140&lt;/sup&gt; messages, right up to our final one consisting of 140 zeds.
+        &lt;/p&gt;
+        &lt;p id="paragraph-16"&gt;We make two exceptions to our treatment of our letters as if they were numbers in a numerical system. Although the space is treated as one such numeral, it is not allowed to lead or trail a message, nor do we allow two or more spaces to appear consecutively since multiple spaces have no symbolic value over single ones.&lt;/p&gt;
+        &lt;p id="paragraph-17"&gt;There is also no concept of a “true” zero in our numerical system. Although the character “0” does appear, as the first character, in our alphabet, it has no special mathematical properties.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;The Alphabet&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-18"&gt;Determining which letters are to be included in Pantography’s “alphabet” is crucial. We need an alphabet that can express every possible - effable - thought. Each orthographic symbol adds millennia to our task. Each letter we add increases the number of texts that need to be generated by a factor of x.&lt;/p&gt;
+        &lt;p id="paragraph-19"&gt;It is important, therefore, to use only the characters that are strictly necessary for all our messages to be rendered completely.&lt;/p&gt;
+        &lt;p id="paragraph-20"&gt;But the above statement would suggest that there is a body of pre-existing utterances out there, existing objectively, waiting for us to express them. But this is whimsical. It is far more plausible to extrapolate forwards and say, The alphabet will produce every utterance that is contained within it.&lt;/p&gt;
+        &lt;p id="paragraph-21"&gt;A certain amount of arbitrariness has to be embraced here. Every mark is a distinction. Whether it is acceptable to assume that capital letters offer no indispensable nuance is, really, up to us. Laßwitz’s “professor,” despite playing the role of the hard man of science, decides that such a loss of colour would be unacceptable: "[...] let’s just stick to the upper- and lower-case letters of the Latin alphabet,” he says, “the customary punctuation marks and the space that keeps the words apart.” That inflates his library by a cool 26
+          &lt;sup&gt;1,000,000.&lt;/sup&gt;
+        &lt;/p&gt;
+        &lt;p id="paragraph-22"&gt;Despite the far more mystical tone of Borges’ story, and the tomes he reports in his library, his alphabet is far more economical. “The original manuscript has neither numbers nor capital letters; punctuation is limited to the comma and the period. Those two marks, the space, and the twenty-two letters of the alphabet are the twenty-five sufficient symbols.” Here Borges has dispensed with the x, the q and the w, as he predicts in The Total Library.&lt;/p&gt;
+        &lt;p id="paragraph-23"&gt;Since we are dealing with a particular medium, Twitter, we can more manageably predict which symbols our alphabet requires. Upper-case letters, though frequently used, are hardly indispensable in this medium, and we sometimes tend to enter into that mode of utterance, somewhere between speech and writing, as in the medium’s grandfather, the SMS message. Conversely, punctuation marks are even more prominent than in other media, and we will here use every mark required to form a sentence, assemble a url, refer to another user and indicate a tag.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;The Fallacy of Further Abstraction&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-24"&gt;Faced with the enormity of the task of assembling the Universal Library, it is tempting to look for ways to economise on the alphabet employed. Dispensing with capital letters, punctuation marks, low-prestige letters such as the J or the W—all these stratagems can make the task lighter. Borges says, “the alphabet could relinquish the q (which is superfluous), the x (which is an abbreviation), and all the capital letters”. By using similar economies, George Gamow in One, Two, Three... Infinity, manages to reduce his alphabet to twenty-five letters.&lt;/p&gt;
+        &lt;p id="paragraph-25"&gt;Theodore Pavlopoulos goes further. He suggests using an alphabet of 100 language-independent characters so that each character can be substituted for any letter in a given language. “&amp;amp;@#$*$ could be thought of as representing the words ABUSES, IMPEDE, SCORER etc. for an English language reader, the words ΣΟΒΑΡΑ, ΘΡΑΣΟΣ, ΕΙΡΗΝΗ etc. for a Greek language reader, and the words СОБАКА, ЯБЛОКО, ГИТАРА etc. for a Russian language reader.” Unlike the stratagem of dropping an x here and a q there, the benefit is far from negligible, “The size ratio between the thus resulting library and the Universal Library is much smaller than the one between an atom and the whole universe.”&lt;/p&gt;
+        &lt;p id="paragraph-26"&gt;WV Quine goes further still. He first suggests using Morse Code while retaining the length of 500,000 characters. Then he cuts down the number of characters, arbitrarily, to seventeen, while retaining Morse Code. Then he delivers his final economy: “The ultimate absurdity is now staring us in the face: a universal library of two volumes, one containing a single dot and the other a dash. Persistent repetition and alternation of the two is sufficient, we well know, for spelling out any and every truth.” &lt;/p&gt;
+        &lt;p id="paragraph-27"&gt;Quine is led to his “ultimate absurdity” by the observation that “a diminution in the coverage of each single volume does not affect the cosmic completeness of the collection”. When he substitutes letters for Morse he says the thought content is reduced—since Morse is more long-winded—but the library is still complete . After all, every conceivable string is still being written out using his chosen alphabet. Then, when he decides to cut down on the length of each string—after all, every string is continued in many, if not all, others—he realises that “a diminution in the coverage of each single volume does not affect the cosmic completeness of the collection”. Next thing you know, he is using binary notation, and trusting that the reader will combine the two symbols to write out any conceivable message.&lt;/p&gt;
+        &lt;p id="paragraph-28"&gt;Something has obviously gone wrong here; though it is not immediately obvious quite what. At first, Quine’s humorous essay may seem to be satirising the idea behind The Total Library (if, indeed, such a preposterous idea can be satirised) but it equally makes a mockery of any attempt to make the task manageable. His proposal is the equivalent of moving all the elements of an equation to the left side, putting a zero on the right—from a + b = c to (a+b)—c = 0—and then claiming to have solved the equation. &lt;/p&gt;
+        &lt;p id="paragraph-29"&gt;Morse itself, like electronic text, is an abstraction of an abstraction. We use dots and dashes, or zeroes and ones, to stand in for letters which, in turn, when grouped together, stand for things in the world. Now there is no reason why Morse code itself could not constitute an orthography for a  natural language. It is not impossible to imagine someone who has so internalised the musical stream of dots and dashes that they would not need to transliterate messages into the alphabet of their language before understanding them and responding. One suspects that this must have happened in the case of very experienced Morse operators.&lt;/p&gt;
+        &lt;p id="paragraph-30"&gt;It’s a question of granularity, of resolution. The alphabet allows us to make a given number of statements, at a particular level of detail, in a given amount of length, or time. When we take a digital photograph, we are aware that we are using a certain number of pixels. We can always choose to use a smaller file size, using fewer pixels, but it would have less detail. If it has too few, then it is useless, it fails to reproduce what we see to an acceptable level. We can also choose to use more pixels, and render more detail. If we choose too many pixels then we are gathering redundant information. The upper limit is, of course, the resolution of our own eyes. Sub specie aeternitatis, the upper limit would probably be far closer to atomic density, or even something like Leibniz’s monad , but in order to reproduce our visual experience, to represent what, to all intents and purposes, the world is to us, we need go no further. &lt;/p&gt;
+        &lt;p id="paragraph-31"&gt;The resolution of our retinas seems to be a far harder barrier than the granularity offered to us by the alphabets of our natural languages. It is a physical barrier. But our alphabets, trimmed and augmented over centuries, offer us a hint of a human scale of the granularity of our experiences. There is great variety, of course, between the number of letters in the various alphabets, but with a certain number of shims and hoists, it represents the variety of sounds we make when we speak. It is a closed system that expresses human experience at a particular level of granularity, at a particular scale.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;header&gt;
+          &lt;h2&gt;The Fallacy of Further Brevity&lt;/h2&gt;
+        &lt;/header&gt;
+        &lt;p id="paragraph-32"&gt;Many attempts at making the project of the Total library more manageable seek to make the texts themselves shorter. Gamow does it, and so does Quine. After all, the argument goes, a text can always be continued in another one. There would also be many texts that explicitly say this, of course, providing convenient markers at the beginning and end of the texts. A text (in reality, millions upon millions of texts) would end with “continued on text 11172”. And sure enough, there would be many texts that would announce themselves to be Text 11172.&lt;/p&gt;
+        &lt;p id="paragraph-33"&gt;Perhaps because the image of a library served as the prime metaphor, Borges and Laßwitz’s texts were book-length. A book is a text of a length we have culturally settled upon, a length in which we can explore a subject at substantial but not overwhelming detail. The book itself is made of smaller components: chapters, sections, paragraphs, sentences, words and, ultimately, letters. We are well aware that the larger parts are made of the smaller but what constitutes a book is that it is made up of those particular parts, and of a given number of them. If we decide to cut up a book into chapters, or a paragraph into sentences then it is no longer a book, no longer a single, coherent exposition on a given subject.&lt;/p&gt;
+        &lt;p id="paragraph-34"&gt;The Total Library is a closed system that plays out every given permutation of a text of a given length, using a given set of characters. It is not the playing out of all human thought. The fact that we take our books to contain human thought, to be human thought itself, is another matter.&lt;/p&gt;
+        &lt;p id="paragraph-35"&gt;Pantography exploits the fortuitous circumstance of the 140-character message. We know the things we can say, we know the kind of human experience these messages express. In the fullness of time, of course, these messages could be joined up to form larger works. Indeed, the messages will themselves suggest ways in which they can be joined into larger texts. But that is no different than joining sentences to form paragraphs. It is the joining up that constitutes the text, and that is the work we expect Pantography to do for us. Pantography, and all other similar projects, and in reality, any single text, are not about the potential locked inside language, not about mental projection, but about the literalness, the writing out. &lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-36"&gt;
+          &lt;strong&gt;The Fallacy of Noise&lt;/strong&gt;
+        &lt;/p&gt;
+        &lt;p id="paragraph-37"&gt;The realisation that such a project would contain all possible texts quickly floods the imagination with the sheer exhaustiveness of all the texts that woud be revealed. Of his Total Library, for instance, Borges says:&lt;/p&gt;
+        &lt;p id="paragraph-38"&gt;{insert: /citations/88}&lt;/p&gt;
+        &lt;p id="paragraph-39"&gt;Pantography, producing shorter texts, will produce all possible one-liners and bon-mots, maxims, epigrams, apothegms, all possible newspaper headlines, curt obscenities, elaborate blasphemies, as well as many millions of libelous pronouncements.&lt;/p&gt;
+        &lt;p id="paragraph-40"&gt;It would also contain millions upon millions of such fantastic lists; and each one of them would be realised elsewhere in the collection.&lt;/p&gt;
+        &lt;p id="paragraph-41"&gt;Now, of course, all these literary nuggets would be hidden in amongst millions of other texts. As Borges puts it,&lt;/p&gt;
+        &lt;blockquote&gt;[...] but for every sensible line or accurate fact there would be millions of meaningless cacophonies, verbal farragoes, and babblings. Everything: but all the generations of mankind could pass before the dizzying shelves—shelves that obliterate the day and on which chaos lies—ever reward them with a tolerable page. &lt;/blockquote&gt;
+        &lt;p id="paragraph-42"&gt;But to say that these texts would be meaningless is to completely ignore what Pantography is doing in its inexorable generation of one text after the other.&lt;/p&gt;
+        &lt;p id="paragraph-43"&gt;Firstly, on a somewhat banal level, Pantography’s internally exhaustive nature means that any phrase is defined elsewhere in the corpus so that there is always a chain of definition, or correspondence between any given text and contemporary understanding.&lt;/p&gt;
+        &lt;p id="paragraph-44"&gt;But more important, Pantography obliterates the distinction between meaning and meaninglessness. Claude E. Shannon defined information as a message with a lower probability than surrounding messages. Each phrase has an equal probability of appearing—i.e. 1. When no phrase has a higher probability of being generated than any other, the distinction between signal and noise collapses.  The entire body of texts has a completely flat frequency graph This is what the heat death of language looks like.&lt;/p&gt;
+        &lt;p id="paragraph-45"&gt;{insert: /citations/86}&lt;/p&gt;
+        &lt;p id="paragraph-46"&gt;When Pantography has produced all its texts, would we be able to say that each text exists? What do we mean when we say that a text exists? Obviously all the material, and the letters existed before. How much work would we we need to put in to gain access to the particular sequence of letters that make up the text? The closer to zero this measure is, the more the text can be said to exist. Is it just a case of opening a book, or a pdf file, or do we need to pluck it from among the entropic miasma of letters. Do we need to infer it from the writer’s notes? Pantography will generate every tweet but once we have the entire body of tweets, we would still have to go back and discover the ones that mean anything to us. This process would require as much work from us as if we were writing them from scratch. In fact, it would be indistinguishable from writing them from scratch. Having all of them is exactly the same as having none of them.&lt;/p&gt;
+      &lt;/section&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/378</id>
+    <published>2016-04-23T13:01:47Z</published>
+    <updated>2018-04-25T08:13:18Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/378"/>
+    <title>The Reading Machine Revisited</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-1"&gt;It’s easy to fixate on the cognitive events that constitute the act of reading, the silent process happening inside our head as our eyes scan the words and our mind makes sense of them—or whatever it is that it does—but there’s another way of looking at this phenomenon. It can be observed from the outside, as a behavioural phenomenon—a theory of reading without a theory of mind. Although accomplished readers have stopped moving their lips since at least Ambrose, the practice of reading has always left demonstrable traces: bookmarks, highlighting, marginalia, recommendation. These all have their equivalent in the digital world. &lt;/p&gt;
+        &lt;p id="paragraph-2"&gt;My own daily reading is conducted mostly via digital media. I go through my twitter feed and mark anything that looks interesting. Similarly, I save any articles on my feedly that look interesting. Both these bookmarks are picked up by my Instapaper. Throughout the following few days I scan or read with a variable level of thoroughness these articles . Sometimes, I mark them as favourites on Instapaper . Sometimes, I share them back on Twitter. Sometimes, I highlight passages; and sometimes I tweet these passages, or share them on Facebook. This, in one way, is what reading means now. This is how we perform the public act of reading.&lt;/p&gt;
+        &lt;p id="paragraph-3"&gt;Now, the idea of building a machine to automate the cognitive act of reading 
+          &lt;a href="/texts/164"&gt;fails even as a thought experiment&lt;/a&gt; but the entire process described above, of scanning, bookmarking, highlighting and sharing, is sufficiently digitised and interconnected that we can more easily imagine it being automated. An artificial intelligence trained on our own current reading could periodically check the same sources and bookmark anything that looks as though we may find it interesting. Depending on the level of interest, it could then favourite it on Instapaper or share it on Twitter. It reads for us in the same way that Douglas Adams’s electric monk  believes for us.
+        &lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-4"&gt;First objection: even as a behavioural reader, the machine’s reading is simply derived from ours. Since it is trained on our taste; in what sense can it be said to be any more than an assistant, a domestic appliance? It is as much a reader as our stove is a cook. Reading, by this behavioural definition, is reduced to that nexus of affinities, some consistent, some contradictory, and some downright perverse, that constitute our interest and “taste”. This reader is simply hijacking that nexus like a pretentious teenager.&lt;/p&gt;
+      &lt;/section&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/266</id>
+    <published>2015-08-07T11:18:16Z</published>
+    <updated>2017-03-28T06:19:43Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/266"/>
+    <title>Writers and their Professions</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;The compulsion to write is a mysterious one. After all, there’s something suspect, something unattractive and childish about wanting to impose your words on others, lashing your every passing sensation to the alphabet. The invitation to read one’s particular arrangement of words, therefore, always comes circumscribed, with excessively humble titles and self-lacerating prefaces. In more grandiose times, unctuously false modest writers would claim that the words are not theirs anyway, that they have been dictated by the muses.&lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;Perhaps there is a secular force, an authorial manifest destiny, that requires no apology, a bold statement that what one writes, simply had to be written,  in some world-historical sense. Unsurprisingly, there are plenty of faux-humble justifications that writers employ to diminish this arrogance. Some try to make it sound like their writing was a mere by-product of their reading, a form of note-taking that got out of hand. Jorge Luis Borges claimed that he was prouder of what he had read in his life, than of what he had written. &lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;There are, of course, those who cheerfully tap away at their keyboard, who speak of “enjoying writing” or speak of it as a form of therapy. But the days of de Maistre and Chamfort are over, and it has been at least a century and a half since anyone has been comfortable simply to say that writing was the by-product of their leisure. Indeed, in those features in the Sunday supplements,  writers want to convince us that what they do is just like real work, that they turn up for work punctually every morning. That writing is hard and not at all a pastime. And that, just like any other worker, if they could afford to not work, they would.  &lt;/p&gt;
+      &lt;p id="paragraph-4"&gt;The first, and most plausible apology for writing in our Fordist age,  then, is for writers to claim that they write for the same reason that everyone else does their job—to earn a living. But even Samuel Johnson could not pull this off. When he uttered his famous defence of a pecuniary motivation for writing—“No one but a blockhead, ever wrote, except for money”—Boswell found it unconvincing. Although Johnson, and for that matter, Boswell, earned a good living out of his pen. The number of writers who actually earn a living from their writing is miniscule.&lt;/p&gt;
+      &lt;p id="paragraph-5"&gt;The other ostensible motivation—“Because it’s the only thing I can do; because I am otherwise unemployable”—is also a gross affectation. There are easier, more pleasurable and less uncertain ways to earn a living. If you can read and write—and many of our writers can—you can do most jobs in our service economy. If Goethe could work as a diplomat, Shakespeare as an actor, Dante as a schemer, Chekhov as a doctor, Eliot as a banker, Kafka as an insurance clerk, etc, then you can work as a project manager.&lt;/p&gt;
+      &lt;p id="paragraph-6"&gt;The advice, “Don’t write if you can do anything else” is a rewording of the same sentiment. You’re of course still expected to be there by the end of the article, or talk, or workshop. Still among those burdened by fate with this awful mission. This is merely the sergeant major calling his company’s bluff just before a foolishly heroic mission. Transforming his men from conscripts to volunteers, from chumps to heroes, by giving them the opportunity to withdraw.&lt;/p&gt;
+      &lt;p id="paragraph-7"&gt;To this end, publishers fashionably stack their writers’ biographical blurb with spoof jobs—chicken rouster in Malaysia, zoo caretaker—as if to reassure the reader about the preordained nature of the writer’s vocation—because surely no one was put on this earth to roust chickens in Malaysia. (What is this “rousting”?) These jobs never reflect the social background of the writer. They are indirect Veblen jobs, the jobs of people so socially secure that they feel immune to what their job contributes to their identity. They are, in their own way, “free to wait tables and shine shoes”. That this writer did not simply take up the pen one day, but that there was a Marxian-Hegelian inevitability to their literary career.&lt;/p&gt;
+      &lt;p id="paragraph-8"&gt;Of course there are occasions when a writer comes to us after a lifetime of service in another profession. But it is usually in the annals of Vanity Publishing that the author’s great contribution to local ophthalmology are praised; and it is hinted that such service to his family and his community prevented him from contributing further to the literary world, and perhaps, from entering the world of “legitimate” publishing.&lt;/p&gt;
+      &lt;p id="paragraph-9"&gt;The problem with the spoof jobs is that they are only full of pathos if the worker had no choice. Although, inherent to this attitude is the unattractive assumption that, given the choice, people would always choose what we choose. Pirate Jenny was not scrubbing floors while Farrar &amp;amp; Giroux considered her manuscript. But it is precisely to avoid becoming identified with an undesired job, to remain outside of its symbolic, that they choose to take these jobs. They are like the children of the bourgeoisie who play with Bob the Builder, while the odds of them entering ťhe construction industry are miniscule. That the present volume was typed by hands unsullied by (manual) labour, just fashionably distressed, like designer jeans.&lt;/p&gt;
+      &lt;p id="paragraph-10"&gt;This is all to impress upon us the happy circumstance of the writer’s birth. That by a happy coincidence, thanks to a successful attorney father—or for a few blessed decades, the welfare state or the GI Bill—he enjoyed Florentine patronage; just as classical biographies first extolled the subject’s ancestors.&lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/149</id>
+    <published>2013-08-09T18:29:38Z</published>
+    <updated>2017-02-13T06:17:32Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/149"/>
+    <title>Text 149</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;This does not exist only for books, it exists for any reproducible work. We can say this not only of “book” but also of “film”, “record” and so on.  &lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;In this sense, Benjamin’s famous assertion that reproduced work differs from our older notions of art in that it has no aura can be turned on its head: reproduced work leads us to suspect the existence of an ideal form of the work.&lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;We never suspect a painting of existing outside its. We know exactly where The Night Watch is. It’s at the Rijsmuseum in Amsterdam; we travel to see it. But where is Alberto Korda’s portrait of Che Guevara? “In our heads.” In so far as we do have a notion of their ideal existence, it is precisely through their reproduction in magazines and coffee-table books and postcards and T-shirts. As though each new reproduction is an attempt to fix its location, another waypoint of triangulation. Paintings that come in series, as they often do, can also suggest that the artist is referring to some ideal form of the painting, approaching it from different angles, making repeated sallies at the disembodied subject.&lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/304</id>
+    <published>2015-09-17T12:27:22Z</published>
+    <updated>2017-02-07T06:36:18Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/304"/>
+    <title>"I will come back and I will be millions"</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;Already in 1936 Walter Benjamin could write that even the existence of Letters to the Editor had changed the whole game. [{blurb:citations/222}] Things have certainly become more pronounced since then and now almost everyone in a developed country, and many in not-so-developed ones have access to the means of production of publication in the strongest sense. True, not everyone has access to the big budgets that publishing houses still choose to bestow on a handful of writers. But everyone can, in theory and sometimes in practice, have access to millions of readers through the very same publishing and publicity platforms that “professional” writers have. We are—heaven help us—all writers now.&lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;But there is a more profound sense in which this is true. Entire days can go by now during which we write more than we read. There are even many days when we write more than we speak. And by “we” here I don’t mean professional writers or editors, I mean anyone who is employed or keeps contact with a handful of friends and family, who communicates with colleagues and acquaintances using email, SMS and messaging applications. &lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;Scolds can exercise themselves with the ensuing “corruption of language” and more enlightened scholars can mine the conveniently self-documenting phenomenon for doctoral theses, but the more interesting question is where does this leave the professional writer. If “everyone” has access to the means of production of texts, not to mention their publication and promotion, and “everyone” has an authorial relationship with language, what do we go to the professional writer for? &lt;/p&gt;
+      &lt;p id="paragraph-4"&gt;Not all professions are viable indefinitely, hundreds fall by the wayside as soon as a technological innovation makes it possible for anyone to do it themselves. How many people still go to a photographer to have their portrait taken?&lt;/p&gt;
+      &lt;p id="paragraph-5"&gt;In the case of journalism and factual writing, the lines between the professional and the amateur have become extremely blurred. Since we have access to countless sources of our text we don’t need the professionalism of the columnist who can deliver a thousand words of at least serviceable quality once a week. &lt;/p&gt;
+      &lt;p id="paragraph-6"&gt;But when it comes to the language itself, how will the mandarin mode of language assert itself? There is a way in which Modernism raised the bar of entry as a reaction to mass literacy; will a similar priesthood re-emerge. Ethnographic writing is now possible on an unprecedented scale—will new Odysseys, imaginative Wikipedias, be the dominant literature of the 21st Century. Or will the hardest form—poetry—become the only form of literature that carries any prestige?&lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/379</id>
+    <published>2016-04-23T16:39:59Z</published>
+    <updated>2016-10-16T07:58:53Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/379"/>
+    <title>The Amanuensis</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;ol&gt;
+        &lt;li&gt;Trained on my library of articles on Instapaper,  the Amamnuensis will select articles from my Twitter feed and my Feedly feed. These are in turn saved to Instapaper. &lt;/li&gt;
+        &lt;li&gt;Depending on level of confidence, some are marked as favourites (and so become public on 
+          &lt;a href="http://www.instapaper.com/p/joegattnet"&gt;Instapaper&lt;/a&gt;). 
+        &lt;/li&gt;
+        &lt;li&gt;Even more assortative links are shared on Twitter.&lt;/li&gt;
+        &lt;li&gt;The Amanuensis highlights interesting passages.&lt;/li&gt;
+        &lt;li&gt;The Amanuensis is trained on the books I’ve read.&lt;/li&gt;
+        &lt;li&gt;The Amanuensis is furthermore trained on books I want to read but have lacked the time or inclination. &lt;/li&gt;
+        &lt;li&gt;Based on its learning, the Amanuensis looks for new sources of reading upon which to train itself.&lt;/li&gt;
+        &lt;li&gt;The Amanuensis annotates and edits my texts.&lt;/li&gt;
+        &lt;li&gt;The Amanuensis writes my texts.&lt;/li&gt;
+      &lt;/ol&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/150</id>
+    <published>2013-08-20T15:10:07Z</published>
+    <updated>2016-10-16T08:05:53Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/150"/>
+    <title>Copyleft and Right</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;When a public gallery announces that it has been bequeathed the works of a recently deceased artist, the tone is always one of gratitude and praise for the artist’s generosity. Museums and universities accept the papers of retired statesmen and writers with equal gratitude. Such donations, I’m sure, are transacted across several meetings and much legal negotiation. But surely these organisations must receive many such offers from deluded people who think that the public would benefit from their unsold artwork or their notes and correspondence. Do removals vans regularly turn up at national galleries stuffed with a lifetime’s worth of “under-appreciated” watercolours? There must be a certain sweet spot of vanity and public spiritedness at which it becomes plausible for someone to think of donating their work to the public.&lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;The world, online and off, is full of copyright notices that simply reek of self-delusion. Brochure websites with badly aliased logos, unwieldy drop-down menus and ungrammatical copy shamelessly claim responsibility for their content and design. Somewhere in the footer, they  draw a circle around a little “c,” like a self-satisfied cat with its tail curled around its paws, to assert their ownership of the foregoing misguided pixels. This redundant little device  is added superstitiously to the bottom of pages, possibly to “look more professional”, as though the content would fall off the bottom without this powerful talisman. This is as paranoid, pre-emptive and discourteous as writing your name on every pint of milk and pack of butter that you put into the office refrigerator.&lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;But there’s also such a thing as foisting your lacklustre home-baked cookies onto your poor colleagues. Creative-commons and open-source mechanisms are, of course, meant to be a sophisticated way round the delusion implicit in announcing to the world that all rights are reserved long before anyone has shown any interest in arguing otherwise.&lt;/p&gt;
+      &lt;p id="paragraph-4"&gt;And yet, when I add the creative-commons licence notice to the bottom of my pages, when I open-source the code for this site, I do it with the same sheepishness as if I had just sent a van stuffed with print-outs of all my emails to the Smithsonian and am anxiously awaiting a little thank-you note full of the appropriate delight and surprise.&lt;/p&gt;
+      &lt;p id="paragraph-5"&gt;This presumption, that anyone is interested in reading, never mind stealing, anything we produce inheres in everything we choose to publish. It is precisely how Vanity Publishing got its name, it is precisely what is being validated, what is being bought off when a publisher buys or commissions a piece. A publisher’s primary function is to guarantee that the present work is not the writer’s delusion but, at worst, a folie à deux. Knowing that a publisher has had to invest a certain amount of money, knowing that that investment carried a certain opportunity cost, reinforces this assurance. Social media buttons have a weaker but similar effect, at least when we can see that a page has been shared by a greater number of people than can be assumed to be the author’s friends and family. &lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/237</id>
+    <published>2015-08-04T08:16:52Z</published>
+    <updated>2016-04-12T19:51:48Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/237"/>
+    <title>The literal and the literary</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;The transforming quality of literature has been amply documented. Indeed, the modern Western canon begins with the cautionary tale of Don Quixote, a perfectly ordinary man turned into an idealistic clown by the augmented reality of Romance novels. Through the gauze of his library, milkmaids became grand ladies and windmills became giants. A couple of centuries later, Emma Bovary desperately sought to escape her provincial life to the realm of romantic intrigue depicted in the romances she read.&lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;Perhaps these examples could be read as an appeal to quality, the exalted form of the novel decrying the superficial, aspirational, corruption of popular literature. There is certainly no such judgment in 
+        &lt;a href="/bibliography/turgenyev-2003"&gt;Turgenyev’s&lt;/a&gt;
+        &lt;a href="/bibliography/turgenyev-2003"&gt;Faust&lt;/a&gt;. Forbidden by her mother from reading poetry and fiction, Vera Nikolayevna maintained this interdiction into her twenties, after she herself had become a wife and mother. A chance acquaintance introduces her to Goethe’s Faust and the fire of the imagination burns down all the comfortable shelter that had held her narrow identity together. 
+      &lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;There are more direct ways that books can have an impact on your life. A friend of mine used to have a sort of fire-eating party trick in which he spat out a mouthful of vodka and ignited the jet with a cigarette lighter. Once, at a reunion with some old friends, he wanted to demonstrate his acquired repertoire and asked the woman behind the bar for a vodka, “something nasty”. She told him it’s funny he’d said that because they had a bottle of small Polish vodka called, of all things, Nasti. My friend put a couple of shots into his mouth, spat them out and ignited the, Something went wrong, of course—maybe the vodka was a higher proof and therefore more flammable than he was used to or maybe he’d already swallowed more vodka than he was used to. The vodka ignited all right but the fireball hung over his face, and set his long hair alight. Second-degree burns are more painful than third-degree burns, he was told at the state-of-the-art burns unit that was conveniently in the neighbourhood, because the nerve-endings are left operational enough to transmit the pain. His reconstructed face was a small but significant improvement on his previous one; rejuvenated skin with no trace of alcohol or narcotics, it clung more snugly to his cheekbones, his nose had a finer point, his chin was more chiselled. The short hair suited him too.&lt;/p&gt;
+      &lt;p id="paragraph-4"&gt;When the good-natured staff at the hospital had asked him how this had happened, he told them about his party trick. He’d read about it, he said truthfully, in a book. &lt;/p&gt;
+      &lt;p id="paragraph-5"&gt;Another time a collegue of ours &lt;/p&gt;
+      &lt;p id="paragraph-6"&gt;Cervantes,’  Flaubert’s and Turgenyev’s depictions of literature as a destructive, even if desirable and necessary, intervention into the subject’s life is a touch more attractive than the saccharine paeans to the great benefits of reading customary in our post-print age. Turgenyev’s cuts deepest of the three because Vera Nikolayevna comes undone by literature at its finest It is not merely that books can transform you, painfully perhaps, into a better person as the school-teachery and defensive clickbait would have you believe. Vera Nikolayevna’s blissful philistinism could sincerely be said to be preferable to her neurotic breakdown. At their best, books can ruin your life.&lt;/p&gt;
+      &lt;p id="paragraph-7"&gt;The vain thing to do here would be to catalogue the ways that books have turned me into the tragic hero that now stands before you. A cultured man’s curriculum vitae should, after all, be as full of incident and epiphany as a bildungsroman.&lt;/p&gt;
+      &lt;p id="paragraph-8"&gt;I must admit that I only thought of reading Patricia Highsmith’s Ripley novels after they came out as Penguin Classics. Though I had liked both Plein Soleil and Anthony Minghella’s Talented Mr Ripley,  I had never been much of a reader of thrillers: film is a better medium for plot-driven stories. Also, it is something of a truism that many great films are based on mediocre books. That truism is normally derived from the obvious assertion that  good novels are good when they manage to show the protagonist’s interior life—which film cannot show. The character of Ripley is, perhaps, far too impenetrable and the books themselves are—if not exactly plot-driven—behaviour driven. Ripley’s actions are haphazard and seemingly improvised, as is Highsmith’s own style. She never seems to bother with the rules of detective fiction. She explains things as they become convenient for the story, improbabilities pile on top of each other. Ripley murders and buries people with no seeming malice; the most he can muster is an occasional resentment. The novels are mostly taken up by the logistics of murder, the quick murders and laboursome disposal of the body. I read all three Penguin-approved books of the five-book Ripliad within a couple of weeks.&lt;/p&gt;
+      &lt;p id="paragraph-9"&gt;My first dream had almost no content to speak of. I dreamt of living with the memory of having killed somebody; I dreamt of carrying the guilt around. Not in any dramatic way, but simply the horror of being able to live on, seemingly normally, and of having been able to hide the fact from myself. This dream came again over the following weeks. Hardly a dream, more a sensation that I woke up with. Then, once or twice, if I let my mind wander during the day I would once again be overcome by the possibility that I had done this, that I had whitewashed over it all.&lt;/p&gt;
+      &lt;p id="paragraph-10"&gt;Some weeks later I managed to mash up Ripley with Hitchcock’s Rope and dreamt that I had killed my childhood friend and kept the body in blue Ikea boxes while I entertained guests to dinner. For two hours after I had woken up, I searched for references to my childhood friend. He had become a somewhat distinguished amateur ornithologist.&lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/164</id>
+    <published>2013-10-17T16:53:10Z</published>
+    <updated>2016-03-06T13:49:08Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/164"/>
+    <title>The Reading Machine</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-1"&gt;At one point in the distant future, long after our sun has faded and its planets have passed, Pantography will produce the text, "
+          &lt;a href="/pantography/in%20a%20village%20in%20la%20mancha%2C%20the%20name%20of%20which%20i%20cannot%20quite%20recalk"&gt;in a village in la mancha, the name of which i cannot quite recalk&lt;/a&gt;".  One hour later, right on schedule, it will come out with a line that is indistinguishable from the opening words of the Penguin edition . If, upon seeing it, you were to hurry off to your local Waterstone’s, you would get nothing new from it other than a few capital letters.
+        &lt;/p&gt;
+        &lt;p id="paragraph-2"&gt;
+          &lt;a href="/pantography"&gt;Pantography&lt;/a&gt; takes brute force to the alphabet and generates one text after another. Although each one is born in the most banal way possible, it will eventually have amassed billions upon billions of texts that will be impossible to tell apart  from those written by human authors. It would also be possible, of course, to modify Pantography’s algorithm to generate only texts which are grammatically, syntactically, lexicographically and orthographically coherent by current understanding. The entire body of texts thus produced could then be mistaken for one produced by someone with an extraordinary amount of time on their hands, some sort of prisoner of eternity.
+        &lt;/p&gt;
+        &lt;p id="paragraph-3"&gt;There are other ways of getting a machine to produce texts, without using the indiscriminate strategy of Pantography’s incremental method. Quill, for instance, is a software program developed by 
+          &lt;a href="http://narrativescience.com/"&gt;Narrative Science&lt;/a&gt; which analyses a set of data and writes up a nifty little paragraph about its most significant points. So far it is mostly used to report on regional sports events, real estate trends and 
+          &lt;a href="http://www.forbes.com/sites/narrativescience/"&gt;stock market prospects&lt;/a&gt;. It comes up with little gems such as:
+        &lt;/p&gt;
+        &lt;blockquote&gt; Wall Street is expecting higher profit for Celgene when the company reports its second quarter results on Thursday, July 25, 2013. The consensus estimate is calling for profit of $1.44 a share, a rise from $1.22 per share a year ago. For the fiscal year, analysts are expecting earnings of $5.77 per share.&lt;/blockquote&gt;
+        &lt;p id="paragraph-4"&gt;Perfunctory, yes. But surely no worse than the following excerpt from Reuters, written, one presumes, by a human being:&lt;/p&gt;
+        &lt;blockquote&gt; Celgene Corp announced that for fiscal 2013, it raises adjusted diluted EPS guidance to a range of $5.80-$5.90 from the previous range of $5.55 to $5.65, an increase of approximately 19% over fiscal 2012 adjusted diluted EPS. GAAP diluted EPS is expected to be in the range of $4.17-$4.31 which includes upfront payment expense for collaborations.&lt;/blockquote&gt;
+        &lt;p id="paragraph-5"&gt;Quill operates within a narrowly defined set of data and, so far, produces texts in a genre where standardised formulations are the norm. But it is already possible to see how its specialisations and applications will become ever broader. It’s not impossible to imagine it filing a perfectly serviceable analysis of an election result some years from now. Kristian Hammond, CTO at Narrative Science, has no lack of ambition for his child, predicting that it will win a Pulitzer by 2017 and that by 2027, “more than 90%" of news will be written by computers. &lt;/p&gt;
+        &lt;p id="paragraph-6"&gt;Hammond probably has in mind journalism with 
+          &lt;a href="http://narrativescience.com/artificial-intelligence-data-engine/#section1"&gt;a more or less straightforward methodology&lt;/a&gt;: a piece of text that begins with a body of data—both foreground and background—identifies its most relevant aspects, contextualises it with some historical comparisons and then strings together a story. But it would be foolish to think that the same method cannot be applied to work that is normally assumed requires more imagination. As it is, Quill can probably write a perfectly readable chosistic novel in the style of Alain Robbe-Grillet. Or maybe the kind of coldly descriptive prose that Robert Musil was going for in 
+          &lt;a href="/citations/167"&gt;the opening paragraph&lt;/a&gt; of The Man Without Qualities. Raymond Roussell’s procédé is an algorithm waiting to be automated. All writing begins with a body of data, at the very least the author’s own experience of the world, and text is a way of generalising and summarising the data. Metaphor, irony, pathos, humour—these can all be “programmed in” . After all, they are rhetorical methods whose mechanics have been studied at least as far back as the Greeks.
+        &lt;/p&gt;
+        &lt;p id="paragraph-7"&gt;In his essay Cybernetics and Ghosts , Italo Calvino, himself a collector and editor of Italian folk tales, welcomed the structuralists’ decipherment of the constitutive elements of myth that would eventually give us a sort of alphabet to work from. A distillation of narrative into its most basic buildings blocks, out of which any other story could be generated. This sounds a lot like the “Good Old-Fashioned Artificial Intelligence” of symbolic manipulation that Hubert Dreyfus and others railed against in the 1970s, and the fashion has since moved on to a more heuristic approach that, rather than following an a priori procedure, learns to draw approximate inferences from given data. It is not impossible to imagine such a  heuristic program using an enormous body of existing texts to learn how language is used and then have a go itself like a bright adolescent spending an uneventful summer omnivorously going through the local library and then, with the first rains of September, sitting down to write her first short story.&lt;/p&gt;
+        &lt;p id="paragraph-8"&gt;At this point, many would take consolation in re-categorisation, in finding ever more remote trap-doors and priest-holes where the Human Spirit can hide. They will console themselves with the notion there will always be something quintessentially human that machine writing cannot reproduce. This used to be the received wisdom about computer chess programs. It was believed that a grandmaster’s wit and ingenuity, his humanity, will always ensure that a computer will never ultimately beat the best human opponents . And then the Human Era of chess ended on 11 May 1997 when IBM’s 
+          &lt;a href="http://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"&gt;Deep Blue&lt;/a&gt; won the second six-game match against Garry Kasparov. In the predictable acrimony that ensued, Kasparov accused IBM of cheating, on the grounds that he had detected creativity in the machine’s play—surely, he declared, a sign of human intervention!  That Wired article on Narrative Science, in its final paragraphs, sought to reassure panicking humanists that any Pulitzer on offer would be given not to the algorithm itself, of course, but to its coders. While one can certainly imagine an application that would be used by human authors to write fiction algorithmically, just as some musicians use 
+          &lt;a href="http://supercollider.sourceforge.net/"&gt;SuperCollider&lt;/a&gt; to create algorithmic music there is no reason to believe that there will never be a successor of Quill that is so autonomous that its output will be as attributable to its coders as The Handmaid’s Tale is to the programmers of Microsoft Word, or The Charterhouse of Parma to a duck’s arse.
+        &lt;/p&gt;
+        &lt;p id="paragraph-9"&gt;Calvino, on the other hand, cheerfully welcomed the prospect of machines taking over the task of writing—precisely because then, "
+          &lt;a href="/citations/999999"&gt;the decisive moment of literary life will be that of reading&lt;/a&gt;". But Calvino was flattering us, thinking us as humble and sophisticated as himself. He describes us all as if we have long been impatient to be rid of this distasteful burden of “self-expression”, to devote ourselves fully, like consecrated monks, to the one role in literature that has humility and dignity, that of the reader. That we have longed to abandon the kitchen for the dining room, gracious guests at the magnificent table of literature.
+        &lt;/p&gt;
+        &lt;p id="paragraph-10"&gt;As things stand, we are still stoically peeling onions among the gurgling pots in the kitchen. 
+          &lt;a href="http://en.wikipedia.org/wiki/Books_published_per_country_per_year"&gt;Several million books are published every year&lt;/a&gt;. These are books that real live human beings conceived of, researched, planned, discussed, and then typed and re-typed with their own hands, often for little or no reward. Quill, and all the other machine-writing programs that will succeed it, are solutions for a problem that does not exist. Whatever the motivation, the production of texts is clearly a task that 
+          &lt;a href="http://www.bbc.co.uk/news/magazine-25139244"&gt;we are very happy to do for ourselves&lt;/a&gt;. And even if we ever do get fully serviceable writing machines, one suspects that after a brief fad of automation, we will want to return to hand-making our texts. Just as we did with mashed potatoes. 
+        &lt;/p&gt;
+        &lt;p id="paragraph-11"&gt;If this interest in artisanal writing continues to grow at its current pace it will become ever harder for writers to find readers prepared to read their texts, or even to find any literate person who is not so occupied with their own writing that they have any time for reading. More and more texts will die the unconsummated death of the slush-pile. We don’t need a machine for writing—what we need is a machine for reading.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-12"&gt;When Friedrich Nietzsche first obtained a typewriter, he was overwhelmed by the speed with which he could now produce texts. Or rather, he found that his friends, his initial readers, were overwhelmed: “What I really need is a machine that can read what I produce.” &lt;/p&gt;
+        &lt;p id="paragraph-13"&gt;It’s hard to imagine what Nietzsche could have thought such a machine would look like. He had just taken delivery of an upright Danish typewriter, made of clunky keys and springs. Surely he couldn’t have thought that by a different, more ingenious arrangement of these mechanical parts, a machine for reading could be devised?&lt;/p&gt;
+        &lt;p id="paragraph-14"&gt;In fact, even with our vastly greater familiarity with machines that seem to perform uncanny tasks, that can place us anywhere in the world and carry our voice and image dutifully across oceans, it remains almost impossible, even on the level of a thought experiment, to imagine what a reading machine would look like.&lt;/p&gt;
+        &lt;p id="paragraph-15"&gt;We can imagine a writing machine simply by extrapolating from current technologies, by imagining machines that become ever subtler, ever more complex until their methods are impossible to distinguish from the normal artifice of authorship. Writing can be faked; because once the text is produced we are able to take it at face value. It is often irresistible to infer the mind of the author from what we read but that is all post hoc. Language can be produced even accidentally, and carried naively. After all, a whole realm of meaning is produced by misspelling, mispronunciation and malapropism.&lt;/p&gt;
+        &lt;p id="paragraph-16"&gt;But it is impossible to imagine a reading machine. After all, we already have simple writing machines but we don’t have equivalent machines that can read these simple texts. Except in the Chinese Room sense that machines read data from each other, that our computer reads data from a memory stick.&lt;/p&gt;
+        &lt;p id="paragraph-17"&gt;Or, rather, it is impossible to imagine a reading machine without imagining a fully conscious machine. We can perhaps imagine a sort of network whose “reading” feeds back into life, through which we can influence the world. Or one that, having read our texts, goes on to produce further texts under their influence. But can we imagine a machine that gives us authorial fulfilment when it reads our texts?&lt;/p&gt;
+        &lt;p id="paragraph-18"&gt;In fact, the reason why we don’t consider Quill’s texts to have been “authored” but rather “produced” or, at best, “written,” is because these machines, and their foreseeable successors, can’t read what they’re writing.  It’s not primarily their shortcomings as writers that disqualify them, but their shortcomings as readers, their lack of subjectivity as readers. Maybe, when we do have writing machines, we will start treating the provenance of the texts to be as mystical, as incorporeal, as the fruits of the muses once were. Indeed, if we assume the machines producing the texts to be merely naive carriers then it would be very hard to not infer, however wrongly, a deeper source, a truer origin, an ‘intelligent designer.’&lt;/p&gt;
+        &lt;p id="paragraph-19"&gt;But the compelling need for just such a reading machine will impel us to build one. First we will have to imagine it. Time has taught us that tasks that seem uniquely human tend to appear more mechanistic once we have learnt to automate them. Nietzsche spoke of his typewriter anthropomorphically, whereas to us it appears as a merely mechanical device. The feat of beating a Chess grandmaster was considered a uniquely human ability until we managed to reduce it to a heuristic process. The mysterious act of translation is carried out with increasing competence using probablistic methods. Maybe we will manage to create a reading machine, and it will appear as banal a task as geolocation. We continue to mechanise tasks that we once considered “intelligent,” and redefine intelligence as something ever more elusive. &lt;/p&gt;
+        &lt;p id="paragraph-20"&gt;As with most other artificial-intelligence projects, a Mechanical Turk could serve as an interim solution. Large buildings in our post-industrial towns and in developing economies could be given over to deskfuls of hired readers poring over texts written by more affluent people, elsewhere in the world, people with time, attractive psychological complexities and issues with their mother.&lt;/p&gt;
+        &lt;p id="paragraph-21"&gt;This Mechanical Turk and its fully automated successors could become a built-in part of our word-processors such that once we have written a text, it is also instantly read and its entire life-cycle—from conception to production to consummation—happens instantaneously. It could be plugged directly into Creative Writing departments.  And, of course, it would become irresistible to plug reading machines directly into writing machines.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-22"&gt;We can imagine a machine—which is to say an AI—that performs many of the tasks we associate with the reader. We can imagine a specialist AI, for instance, that knows what kind of articles we find interesting and selects for us other articles that we might find interesting. Assuming that we normally select and highlight our reading material as a form of deferral of reading, that we bookmark articles instead of reading, in the same way that we once recorded shows on a VCR instead of watching them then this AI would eventually have no better and no worse reading habits than we ourselves do.&lt;/p&gt;
+      &lt;/section&gt;
+      &lt;section&gt;
+        &lt;p id="paragraph-23"&gt;But would the two separate applications still exist?  Quote article about robots reading robots Not strictly parallel, of course. Those robots did not need the narrative sugar sprinkled on their data.&lt;/p&gt;
+        &lt;p id="paragraph-24"&gt;Reading machines can be connected to writing machines and it would short-circuit meaning. But would machines need this human detour of narrative? &lt;/p&gt;
+        &lt;p id="paragraph-25"&gt;Is narrative a human detour or could they be created - and is it only a human detour. Is this the plane of our existence; machines connected to each other would have gnosis. Our plane of existence is just that plane of tentativity, of makeshift approximations, of language. Narrative is the playing out of information over a human-scale timeline.&lt;/p&gt;
+      &lt;/section&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:joegatt.net,2005:Note/289</id>
+    <published>2015-08-27T06:26:27Z</published>
+    <updated>2016-02-19T20:56:02Z</updated>
+    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/289"/>
+    <title>Squibs</title>
+    <content type="html">
+    &lt;section class="body"&gt;
+      &lt;p id="paragraph-1"&gt;The ostensible intention of these notes is to create a transparent continuity between  the notes I gather from day to day and “finished” texts. There is also something comforting about the idea that all my notes, which I gather readily as I go about my day, will almost automatically—like drops of mercury on a flat surface—gather themselves into finished texts.&lt;/p&gt;
+      &lt;p id="paragraph-2"&gt;Obviously, the first thing that goes out the window is any notion of a finished text. The instability of text has been extensively theorised since the last century (and practised well before that) but electronic media have truly disabused us of any notions of fixity. While instability was hitherto practised through the process of revised editions and transcription, piracy and plagiarism, it was a relatively slow process that spanned years. But now I can change anything on this site as I idly swipe through my notes on a train platform. Everything you see here is only here because I have neglected to change it.&lt;/p&gt;
+      &lt;p id="paragraph-3"&gt;The second notion to go is the idea that these notes are now in any way casual. The knowledge that these notes are being published gives them the flavour of the politician’s diary, I go through the pretence of talking to myself, with one ear cocked to hear the audience’s reaction. &lt;/p&gt;
+      &lt;p id="paragraph-4"&gt;Although I have tried to minimise the distinction between texts, and the level of readiness of each, there are obviously different types. Some have even been given a title, some have been given their own URL. And then there are the annotations which could themselves have been independent notes, and sometimes reflect more closely the way I actually take notes, and leave notes to myself.&lt;/p&gt;
+      &lt;p id="paragraph-5"&gt;But all these texts are, at once, both too self-conscious to be casual notes and too mutable ever to be anything.&lt;/p&gt;
+    &lt;/section&gt;
+  </content>
+    <author>
+      <name>Joe Gatt</name>
+    </author>
+  </entry>
+</feed>
