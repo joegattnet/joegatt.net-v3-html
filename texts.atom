@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
+<feed xml:lang="en-US" xmlns="https://www.w3.org/2005/Atom">
   <id>tag:joegatt.net,2005:/texts</id>
-  <link rel="alternate" type="text/html" href="http://joegatt.net"/>
-  <link rel="self" type="application/atom+xml" href="http://joegatt.net/texts.atom"/>
+  <link rel="alternate" type="text/html" href="https://joegatt.net"/>
+  <link rel="self" type="application/atom+xml" href="https://joegatt.net/texts.atom"/>
   <title>Figaro::ENV</title>
   <language>en</language>
   <updated>2018-08-13T05:28:19Z</updated>
@@ -10,7 +10,7 @@
     <id>tag:joegatt.net,2005:Note/129</id>
     <published>2013-07-08T18:53:44Z</published>
     <updated>2018-08-13T05:28:34Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/129"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/129"/>
     <title>Pantography</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -124,7 +124,7 @@
     <id>tag:joegatt.net,2005:Note/378</id>
     <published>2016-04-23T13:01:47Z</published>
     <updated>2018-04-25T08:13:18Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/378"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/378"/>
     <title>The Reading Machine Revisited</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -148,7 +148,7 @@
     <id>tag:joegatt.net,2005:Note/266</id>
     <published>2015-08-07T11:18:16Z</published>
     <updated>2017-03-28T06:19:43Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/266"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/266"/>
     <title>Writers and their Professions</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -172,7 +172,7 @@
     <id>tag:joegatt.net,2005:Note/149</id>
     <published>2013-08-09T18:29:38Z</published>
     <updated>2017-02-13T06:17:32Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/149"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/149"/>
     <title>Text 149</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -189,7 +189,7 @@
     <id>tag:joegatt.net,2005:Note/304</id>
     <published>2015-09-17T12:27:22Z</published>
     <updated>2017-02-07T06:36:18Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/304"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/304"/>
     <title>"I will come back and I will be millions"</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -209,14 +209,14 @@
     <id>tag:joegatt.net,2005:Note/379</id>
     <published>2016-04-23T16:39:59Z</published>
     <updated>2016-10-16T07:58:53Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/379"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/379"/>
     <title>The Amanuensis</title>
     <content type="html">
     &lt;section class="body"&gt;
       &lt;ol&gt;
         &lt;li&gt;Trained on my library of articles on Instapaper,  the Amamnuensis will select articles from my Twitter feed and my Feedly feed. These are in turn saved to Instapaper. &lt;/li&gt;
         &lt;li&gt;Depending on level of confidence, some are marked as favourites (and so become public on 
-          &lt;a href="http://www.instapaper.com/p/joegattnet"&gt;Instapaper&lt;/a&gt;). 
+          &lt;a href="https://www.instapaper.com/p/joegattnet"&gt;Instapaper&lt;/a&gt;). 
         &lt;/li&gt;
         &lt;li&gt;Even more assortative links are shared on Twitter.&lt;/li&gt;
         &lt;li&gt;The Amanuensis highlights interesting passages.&lt;/li&gt;
@@ -236,7 +236,7 @@
     <id>tag:joegatt.net,2005:Note/150</id>
     <published>2013-08-20T15:10:07Z</published>
     <updated>2016-10-16T08:05:53Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/150"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/150"/>
     <title>Copyleft and Right</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -255,7 +255,7 @@
     <id>tag:joegatt.net,2005:Note/237</id>
     <published>2015-08-04T08:16:52Z</published>
     <updated>2016-04-12T19:51:48Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/237"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/237"/>
     <title>The literal and the literary</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -282,7 +282,7 @@
     <id>tag:joegatt.net,2005:Note/164</id>
     <published>2013-10-17T16:53:10Z</published>
     <updated>2016-03-06T13:49:08Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/164"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/164"/>
     <title>The Reading Machine</title>
     <content type="html">
     &lt;section class="body"&gt;
@@ -294,28 +294,28 @@
           &lt;a href="/pantography"&gt;Pantography&lt;/a&gt; takes brute force to the alphabet and generates one text after another. Although each one is born in the most banal way possible, it will eventually have amassed billions upon billions of texts that will be impossible to tell apart  from those written by human authors. It would also be possible, of course, to modify Pantography’s algorithm to generate only texts which are grammatically, syntactically, lexicographically and orthographically coherent by current understanding. The entire body of texts thus produced could then be mistaken for one produced by someone with an extraordinary amount of time on their hands, some sort of prisoner of eternity.
         &lt;/p&gt;
         &lt;p id="paragraph-3"&gt;There are other ways of getting a machine to produce texts, without using the indiscriminate strategy of Pantography’s incremental method. Quill, for instance, is a software program developed by 
-          &lt;a href="http://narrativescience.com/"&gt;Narrative Science&lt;/a&gt; which analyses a set of data and writes up a nifty little paragraph about its most significant points. So far it is mostly used to report on regional sports events, real estate trends and 
-          &lt;a href="http://www.forbes.com/sites/narrativescience/"&gt;stock market prospects&lt;/a&gt;. It comes up with little gems such as:
+          &lt;a href="https://narrativescience.com/"&gt;Narrative Science&lt;/a&gt; which analyses a set of data and writes up a nifty little paragraph about its most significant points. So far it is mostly used to report on regional sports events, real estate trends and 
+          &lt;a href="https://www.forbes.com/sites/narrativescience/"&gt;stock market prospects&lt;/a&gt;. It comes up with little gems such as:
         &lt;/p&gt;
         &lt;blockquote&gt; Wall Street is expecting higher profit for Celgene when the company reports its second quarter results on Thursday, July 25, 2013. The consensus estimate is calling for profit of $1.44 a share, a rise from $1.22 per share a year ago. For the fiscal year, analysts are expecting earnings of $5.77 per share.&lt;/blockquote&gt;
         &lt;p id="paragraph-4"&gt;Perfunctory, yes. But surely no worse than the following excerpt from Reuters, written, one presumes, by a human being:&lt;/p&gt;
         &lt;blockquote&gt; Celgene Corp announced that for fiscal 2013, it raises adjusted diluted EPS guidance to a range of $5.80-$5.90 from the previous range of $5.55 to $5.65, an increase of approximately 19% over fiscal 2012 adjusted diluted EPS. GAAP diluted EPS is expected to be in the range of $4.17-$4.31 which includes upfront payment expense for collaborations.&lt;/blockquote&gt;
         &lt;p id="paragraph-5"&gt;Quill operates within a narrowly defined set of data and, so far, produces texts in a genre where standardised formulations are the norm. But it is already possible to see how its specialisations and applications will become ever broader. It’s not impossible to imagine it filing a perfectly serviceable analysis of an election result some years from now. Kristian Hammond, CTO at Narrative Science, has no lack of ambition for his child, predicting that it will win a Pulitzer by 2017 and that by 2027, “more than 90%" of news will be written by computers. &lt;/p&gt;
         &lt;p id="paragraph-6"&gt;Hammond probably has in mind journalism with 
-          &lt;a href="http://narrativescience.com/artificial-intelligence-data-engine/#section1"&gt;a more or less straightforward methodology&lt;/a&gt;: a piece of text that begins with a body of data—both foreground and background—identifies its most relevant aspects, contextualises it with some historical comparisons and then strings together a story. But it would be foolish to think that the same method cannot be applied to work that is normally assumed requires more imagination. As it is, Quill can probably write a perfectly readable chosistic novel in the style of Alain Robbe-Grillet. Or maybe the kind of coldly descriptive prose that Robert Musil was going for in 
+          &lt;a href="https://narrativescience.com/artificial-intelligence-data-engine/#section1"&gt;a more or less straightforward methodology&lt;/a&gt;: a piece of text that begins with a body of data—both foreground and background—identifies its most relevant aspects, contextualises it with some historical comparisons and then strings together a story. But it would be foolish to think that the same method cannot be applied to work that is normally assumed requires more imagination. As it is, Quill can probably write a perfectly readable chosistic novel in the style of Alain Robbe-Grillet. Or maybe the kind of coldly descriptive prose that Robert Musil was going for in 
           &lt;a href="/citations/167"&gt;the opening paragraph&lt;/a&gt; of The Man Without Qualities. Raymond Roussell’s procédé is an algorithm waiting to be automated. All writing begins with a body of data, at the very least the author’s own experience of the world, and text is a way of generalising and summarising the data. Metaphor, irony, pathos, humour—these can all be “programmed in” . After all, they are rhetorical methods whose mechanics have been studied at least as far back as the Greeks.
         &lt;/p&gt;
         &lt;p id="paragraph-7"&gt;In his essay Cybernetics and Ghosts , Italo Calvino, himself a collector and editor of Italian folk tales, welcomed the structuralists’ decipherment of the constitutive elements of myth that would eventually give us a sort of alphabet to work from. A distillation of narrative into its most basic buildings blocks, out of which any other story could be generated. This sounds a lot like the “Good Old-Fashioned Artificial Intelligence” of symbolic manipulation that Hubert Dreyfus and others railed against in the 1970s, and the fashion has since moved on to a more heuristic approach that, rather than following an a priori procedure, learns to draw approximate inferences from given data. It is not impossible to imagine such a  heuristic program using an enormous body of existing texts to learn how language is used and then have a go itself like a bright adolescent spending an uneventful summer omnivorously going through the local library and then, with the first rains of September, sitting down to write her first short story.&lt;/p&gt;
         &lt;p id="paragraph-8"&gt;At this point, many would take consolation in re-categorisation, in finding ever more remote trap-doors and priest-holes where the Human Spirit can hide. They will console themselves with the notion there will always be something quintessentially human that machine writing cannot reproduce. This used to be the received wisdom about computer chess programs. It was believed that a grandmaster’s wit and ingenuity, his humanity, will always ensure that a computer will never ultimately beat the best human opponents . And then the Human Era of chess ended on 11 May 1997 when IBM’s 
-          &lt;a href="http://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"&gt;Deep Blue&lt;/a&gt; won the second six-game match against Garry Kasparov. In the predictable acrimony that ensued, Kasparov accused IBM of cheating, on the grounds that he had detected creativity in the machine’s play—surely, he declared, a sign of human intervention!  That Wired article on Narrative Science, in its final paragraphs, sought to reassure panicking humanists that any Pulitzer on offer would be given not to the algorithm itself, of course, but to its coders. While one can certainly imagine an application that would be used by human authors to write fiction algorithmically, just as some musicians use 
-          &lt;a href="http://supercollider.sourceforge.net/"&gt;SuperCollider&lt;/a&gt; to create algorithmic music there is no reason to believe that there will never be a successor of Quill that is so autonomous that its output will be as attributable to its coders as The Handmaid’s Tale is to the programmers of Microsoft Word, or The Charterhouse of Parma to a duck’s arse.
+          &lt;a href="https://en.wikipedia.org/wiki/Deep_Blue_(chess_computer)"&gt;Deep Blue&lt;/a&gt; won the second six-game match against Garry Kasparov. In the predictable acrimony that ensued, Kasparov accused IBM of cheating, on the grounds that he had detected creativity in the machine’s play—surely, he declared, a sign of human intervention!  That Wired article on Narrative Science, in its final paragraphs, sought to reassure panicking humanists that any Pulitzer on offer would be given not to the algorithm itself, of course, but to its coders. While one can certainly imagine an application that would be used by human authors to write fiction algorithmically, just as some musicians use 
+          &lt;a href="https://supercollider.sourceforge.net/"&gt;SuperCollider&lt;/a&gt; to create algorithmic music there is no reason to believe that there will never be a successor of Quill that is so autonomous that its output will be as attributable to its coders as The Handmaid’s Tale is to the programmers of Microsoft Word, or The Charterhouse of Parma to a duck’s arse.
         &lt;/p&gt;
         &lt;p id="paragraph-9"&gt;Calvino, on the other hand, cheerfully welcomed the prospect of machines taking over the task of writing—precisely because then, "
           &lt;a href="/citations/999999"&gt;the decisive moment of literary life will be that of reading&lt;/a&gt;". But Calvino was flattering us, thinking us as humble and sophisticated as himself. He describes us all as if we have long been impatient to be rid of this distasteful burden of “self-expression”, to devote ourselves fully, like consecrated monks, to the one role in literature that has humility and dignity, that of the reader. That we have longed to abandon the kitchen for the dining room, gracious guests at the magnificent table of literature.
         &lt;/p&gt;
         &lt;p id="paragraph-10"&gt;As things stand, we are still stoically peeling onions among the gurgling pots in the kitchen. 
-          &lt;a href="http://en.wikipedia.org/wiki/Books_published_per_country_per_year"&gt;Several million books are published every year&lt;/a&gt;. These are books that real live human beings conceived of, researched, planned, discussed, and then typed and re-typed with their own hands, often for little or no reward. Quill, and all the other machine-writing programs that will succeed it, are solutions for a problem that does not exist. Whatever the motivation, the production of texts is clearly a task that 
-          &lt;a href="http://www.bbc.co.uk/news/magazine-25139244"&gt;we are very happy to do for ourselves&lt;/a&gt;. And even if we ever do get fully serviceable writing machines, one suspects that after a brief fad of automation, we will want to return to hand-making our texts. Just as we did with mashed potatoes. 
+          &lt;a href="https://en.wikipedia.org/wiki/Books_published_per_country_per_year"&gt;Several million books are published every year&lt;/a&gt;. These are books that real live human beings conceived of, researched, planned, discussed, and then typed and re-typed with their own hands, often for little or no reward. Quill, and all the other machine-writing programs that will succeed it, are solutions for a problem that does not exist. Whatever the motivation, the production of texts is clearly a task that 
+          &lt;a href="https://www.bbc.co.uk/news/magazine-25139244"&gt;we are very happy to do for ourselves&lt;/a&gt;. And even if we ever do get fully serviceable writing machines, one suspects that after a brief fad of automation, we will want to return to hand-making our texts. Just as we did with mashed potatoes. 
         &lt;/p&gt;
         &lt;p id="paragraph-11"&gt;If this interest in artisanal writing continues to grow at its current pace it will become ever harder for writers to find readers prepared to read their texts, or even to find any literate person who is not so occupied with their own writing that they have any time for reading. More and more texts will die the unconsummated death of the slush-pile. We don’t need a machine for writing—what we need is a machine for reading.&lt;/p&gt;
       &lt;/section&gt;
@@ -349,7 +349,7 @@
     <id>tag:joegatt.net,2005:Note/289</id>
     <published>2015-08-27T06:26:27Z</published>
     <updated>2016-02-19T20:56:02Z</updated>
-    <link rel="alternate" type="text/html" href="http://joegatt.net/texts/289"/>
+    <link rel="alternate" type="text/html" href="https://joegatt.net/texts/289"/>
     <title>Squibs</title>
     <content type="html">
     &lt;section class="body"&gt;
