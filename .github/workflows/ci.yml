@@ -22,4 +22,4 @@ jobs:
         script: |
           cd joegatt.net-server
           cd joegatt.net-v3-html
-          cd git pull
+          git pull
