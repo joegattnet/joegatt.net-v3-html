@@ -22,4 +22,6 @@ jobs:
         script: |
           cd joegatt.net-server
           cd joegatt.net-v3-html
+          eval "$(ssh-agent -s)"
+          ssh-add ~/.ssh/id_rsa_deploykey_unsigned
           git pull
